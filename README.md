@@ -1,3 +1,3 @@
-#  PengenkripsiDekripTextXML(RSUD Ratu Zalecha) ![6007d8546cf9f](https://user-images.githubusercontent.com/95389491/147182253-418a6960-a2b5-4957-8245-ed7ee9263029.jpg)
+#  PengenkripsiDekripTextXML(RSUD Ratu Zalecha) ![raza](https://user-images.githubusercontent.com/95389491/206329006-ffd766fe-b364-4640-90a6-062dc2c330cd.jpg)
 
 Merupakan aplikasi untuk membantu mengenkripsi & dekrip pengaturan data yang diperlukan simrskhanza versi RSUD Ratu Zalecha (Pengembang SIMRSKHANZA wilayah Kal-Sel)
